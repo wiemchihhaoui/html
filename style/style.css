@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic");
+
+body {
+  background-image: linear-gradient(
+    to left bottom,
+    #1007ea,
+    #007cff,
+    #00aeed,
+    #32d5c5,
+    #d7f3d8
+  );
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  font-weight: 900;
+  margin-top: auto;
+}
+h2 {
+  text-align: right;
+  color: #e1e1e9;
+  font-weight: 200;
+}
+h3 {
+  text-align: left;
+  color: #ef0599;
+  font-weight: 100;
+}
+img {
+  border-radius: 50%;
+  text-align: center;
+}
+video{
+    margin: auto;
+    text-align: center;
+}
+p{
+    text-align:justify;
+    line-height:2rem;
+
+}
